@@ -1,43 +1,73 @@
-# 🎴 _Hi, Dhya here!_
-_**`Digital Craftsman`**_
+# <p align="center">✎ᝰ. Dhya El Bahri 🔬</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=435&lines=Digital+Craftsman;Full-Stack+Web+Developer;Data+Science+Scholar;AI+Enthusiast" alt="Typing SVG" />
+</p>
 
-🧿 I'm an indie full-stack web developer who specializes in creating high-quality software solutions. \
-📒 My dedication to continual learning and innovation motivates me to stay current on the latest technologies and best practices. \
-📡 I believe in the potential of cooperation and look forward to working with like-minded individuals and organizations.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=[YOUR%20NAME]&fontSize=80&animation=fadeIn" width="100%" />
+</div>
 
-🪩 Let's build the next big thing together!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20[Name]&fontSize=70" width="100%" />
+</div>
+
+### 🌌 About Me
+I am a **Computer Engineering graduate** and current **Data Science Master’s student** dedicated to building scalable web applications and intelligent data-driven solutions. I bridge the gap between robust software engineering and complex analytical models.
+
+- 🎓 **Currently**: Pursuing a Master's in Data Science & Information Retrieval.
+- 🛠️ **Professional**: Freelance Software Developer delivering e-commerce and SaaS platforms.
 
 ---
 
-### 🧰 _My toolbox_
+### 🚀 Technical Arsenal
 
-**Tech Stack**
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br />
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend & Web</strong><br />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Data & AI</strong><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA_AI-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black" />
+      <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🧪 Recent Research & Projects
+* **Gym Management**: Co-developed a full-stack platform for operational streamlining and secure payments.
+* **Enterprise Rental**: Built an enterprise-grade car rental management platform for business efficiency.
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-#
+### 📈 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Disciple0fMarx&show_icons=true&theme=transparent&hide_border=true" alt="My GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disciple0fMarx&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
 
-**Languages**
+---
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 📫 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/dhya-el-bahri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:disciple0fmarx@tuta.io"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+_"Building the next big thing, one data point at a time."_
