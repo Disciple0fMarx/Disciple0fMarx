@@ -1,15 +1,9 @@
-# <p align="center">✎ᝰ. Dhya El Bahri 🔬</p>
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=𝘿𝙝𝙮𝙖%20𝙀𝙡%20𝘽𝙖𝙝𝙧𝙞%20&textBg=false&section=header" width="100%" />
+</div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=435&lines=Digital+Craftsman;Full-Stack+Web+Developer;Data+Science+Scholar;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=435&lines=Digital+Craftsman;Full-Stack+Web+Developer;Data+Science+Student;AI+Enthusiast" alt="Typing SVG" />
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=[YOUR%20NAME]&fontSize=80&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20[Name]&fontSize=70" width="100%" />
-</div>
 
 ### 🌌 About Me
 I am a **Computer Engineering graduate** and current **Data Science Master’s student** dedicated to building scalable web applications and intelligent data-driven solutions. I bridge the gap between robust software engineering and complex analytical models.
@@ -52,15 +46,6 @@ I am a **Computer Engineering graduate** and current **Data Science Master’s s
 ### 🧪 Recent Research & Projects
 * **Gym Management**: Co-developed a full-stack platform for operational streamlining and secure payments.
 * **Enterprise Rental**: Built an enterprise-grade car rental management platform for business efficiency.
-
----
-
-### 📈 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Disciple0fMarx&show_icons=true&theme=transparent&hide_border=true" alt="My GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disciple0fMarx&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
